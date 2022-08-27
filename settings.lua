@@ -29,7 +29,8 @@ data:extend({
         default_value = "50 Slots (Default)",
         allowed_values = {
             "40 Slots (Vanilla)",
-            "50 Slots (Default)"
+            "50 Slots (Default)",
+            "120 Slots (Extended)"
         }
     },
     {
